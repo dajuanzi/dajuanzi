@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dajuanzi
-- 👀 I studied MSc in Mathematical Statistics at Stockholms University, and I’m interested in statistics, machine learning, finance...
+- 👀 I studied MSc in Mathematical Statistics at Stockholms University
 - 🌱 Currently working at IBM Sweden
 - 📫 Reach me at daniella.yx.zhou@gmail.com
 
