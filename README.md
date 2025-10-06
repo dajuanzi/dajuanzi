@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dajuanzi
 - 👀 I studied MSc in Mathematical Statistics at Stockholms University
-- 🌱 Working at IBM Sweden
+- 🌱 Working at Algorithma.ai
 - 📫 Reach me at daniella.yx.zhou@gmail.com
 
 <!---
